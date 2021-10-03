@@ -12,7 +12,6 @@ final release of feature 1
 start release branch for 1.0
 release version 1.1
 develop after release 1.0
-<<<<<<< HEAD
 continue working
 only bugfixes
 dealed with bugs!
@@ -20,3 +19,7 @@ developing...
 add feature3
 continue work on feature3
 finish feature3
+feature for future release
+working on feature 2
+continue working on feature 2
+dealed with featured2
