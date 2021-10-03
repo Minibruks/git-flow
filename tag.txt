@@ -9,3 +9,4 @@ continue working
 add feature1!!!!
 fix feature1
 final release of feature 1
+develop after release 1.0
