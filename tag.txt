@@ -6,3 +6,6 @@ smth added
 adding more
 and more
 continue working
+add feature1!!!!
+fix feature1
+final release of feature 1
