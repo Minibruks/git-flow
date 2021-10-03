@@ -4,3 +4,4 @@ dev continue
 smth added
 feature for future release
 working on feature 2
+continue working on feature 2
