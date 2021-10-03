@@ -3,3 +3,4 @@ start develop
 dev continue
 smth added
 add feature1!!!!
+fix feature1
